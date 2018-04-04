@@ -1,0 +1,19 @@
+{
+  "name": "bastrap",
+  "version": "1.0.0",
+  "description": "HTML, CSS, y JS basado en Bootstrap para webs de GCBA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgediazsamaniego/BAstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgediazsamaniego/BAstrap/issues"
+  },
+  "homepage": "https://github.com/jorgediazsamaniego/BAstrap#readme"
+}
